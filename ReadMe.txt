@@ -28,3 +28,5 @@ Reproduce the experimental results for CURET
    --the code in the loop 'for i = 1: trail': perform N=trail random splits of the training and test sets and compute the classification accuracy with each split. 
    --AP=mean(cp_avg): compute the average accuracy over N=trail random splits.
 
+--------------------------------------------
+This code implements functions from CLBP and LETRIST demo codes.
