@@ -1,2 +1,0 @@
-# GCLBP-code
-GCLBP code
